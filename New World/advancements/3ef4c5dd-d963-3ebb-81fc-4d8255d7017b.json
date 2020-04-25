@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-04-25 18:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-25 19:17:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-04-25 18:35:37 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
